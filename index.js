@@ -15,6 +15,10 @@ app.get('/programming-categories', (req, res) => {
     res.send(categories)
 })
 
+app.get('/main', (req, res) => {
+    res.send(categories)
+})
+
 app.get('/programming/:id', (req, res) => {
     const id = req.params.id;
     const programmingLanguage = programming.find( prog => prog._id === id)
