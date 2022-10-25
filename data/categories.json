@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Procedural languages"
+    },
+    {
+      "id": "02",
+      "name": "Functional languages"
+    },
+    {
+      "id": "03",
+      "name": "Machine languages"
+    },
+    {
+      "id": "04",
+      "name": "Assembly languages"
+    },
+    {
+      "id": "05",
+      "name": "Data-oriented languages"
+    },
+    {
+      "id": "06",
+      "name": "Scripting languages"
+    },
+    {
+      "id": "07",
+      "name": "Declarative languages"
+    },
+    {
+      "id": "08",
+      "name": "All languages"
+    }
+  ]
