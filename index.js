@@ -6,6 +6,8 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+
+// categories 
 const categories = require('./data/categories.json');
 
 const programming = require('./data/programming.json');
